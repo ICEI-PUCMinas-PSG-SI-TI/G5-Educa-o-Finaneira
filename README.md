@@ -1,18 +1,19 @@
-# Nome do projeto
-Escreva um ou dois  parágrafo resumindo o objetivo do seu projeto.
+# Educação Financeira para Idosos
+O objetivo geral do nosso trabalho é facilitar o contato entre usuários da terceira idade e mecanismos de administração financeira online, através da aplicação web. Ademais, queremos proporcionar uma experiência menos frustrante nesse ambiente que causa tanta estranheza e complexidade a usuários inexperientes, facilitando o uso e proporcionando uma troca de informações sadia, fornecendo dicas e instruções para um maior entendimento do público-alvo.
 
 ## Alunos integrantes da equipe
 
-* Nome completo do aluno 1
-* Nome completo do aluno 2
-* Nome completo do aluno 3
-* Nome completo do aluno 4
+* Henrique Carrara
+* Thiago Akihiro
+* Wander Buzatti
+* Augusto Silva
+* Marcus Noronha
+
 
 ## Professores responsáveis
 
-* Nome completo do professor 1
-* Nome completo do professor 2
+* Alexandre
 
 ## Instruções de utilização
 
-Assim que a primeira versão do sistema estiver disponível, deverá complementar com as instruções de utilização. Descreva como instalar eventuais dependências e como executar a aplicação.
+Abra o site: https://g5-educacao-financeira.wanderbuzatti.repl.co/ e aproveite a experiência.
